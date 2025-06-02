@@ -12,7 +12,7 @@ public class StackIMPArray {
     // insert 
      void push(int x){
        if (top == cap -1) {
-         System.out.println("stack full over flow error");
+         System.out.println("stack full over flow error"); 
        }
        top++;
        arr[top] = x;
