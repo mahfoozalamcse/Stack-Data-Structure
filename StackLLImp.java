@@ -9,7 +9,7 @@ public class StackLLImp {
     }
     // End Node
     // stack Implimentation
-    public static class MyStack{ 
+    public static class MyStack{  
         Node head;
         int size;
         MyStack(){
