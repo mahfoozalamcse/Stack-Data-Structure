@@ -5,7 +5,7 @@ public class StackIMPArray {
         int top;
         MyStack(int c){
             cap = c;
-            arr = new int[c];
+            arr = new int[c]; 
             top = -1;
         }
     
